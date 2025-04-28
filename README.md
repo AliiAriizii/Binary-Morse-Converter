@@ -1,16 +1,28 @@
-# text_converter
+Text Converter
+A simple and lightweight Flutter app to convert any text into Binary Code or Morse Code.
+It provides an easy-to-use interface, fast conversions, and copy-to-clipboard functionality.
 
-A new Flutter project.
+Features
+Convert text to Binary Code 🖥️
 
-## Getting Started
+Convert text to Morse Code 📡
 
-This project is a starting point for a Flutter application.
+Simple and clean UI
 
-A few resources to get you started if this is your first Flutter project:
+Copy the converted text with one click
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Screenshots
+(You can add screenshots later if you want.)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Getting Started
+To run this project locally:
+
+bash
+Copy
+Edit
+
+
+git clone https://github.com/AliiAriizii/text_converter.git
+cd text_converter
+flutter pub get
+flutter run
